@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#search-inventory button {
+    margin-bottom: 1rem;
+    color: red;
+    color-scheme: light;
+
+}
